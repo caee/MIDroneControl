@@ -22,7 +22,7 @@ The following instruments and equipment was used.
 
 • 1 x Windows 10 Computer - with min. 2x USB 3.0 ports, OpenViBE installation and driver g.USBamp. Hardware requirements unknown.
 
-• 1 x Drone controlled by ArduPilot software.
+• 1 x Drone controlled by ArduPilot software.              
 
 • 1 x Taranis Q X7 - Drone Controller
 
