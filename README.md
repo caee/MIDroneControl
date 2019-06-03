@@ -33,7 +33,7 @@ Everything under ArduinoScript/ppm_encoder_souce must be compiled onto Arduino u
 Arduino must output 
 
 # OpenViBE
-Connect the g.GAMMAsys to the g.USBamp and the
+Connect the g.GAMMAsys to the g.USBamp and the 
 g.USBamp to the computer. Turn on everything and start up OpenViBE, and
 the OpenViBE acquisition client.
 
@@ -56,7 +56,9 @@ Video demonstration of the program
 https://www.youtube.com/watch?v=wYRMMQU5Fu8
 
 Part of Bachelors thesis for Carl Emil Elling & Aleksander Sørup Lund in cooperation with DTU Space and DTU Digital Health.
-"Exploring the use of Brain-Computer Interfacing in drone control", May 2019
+
+"<i>Exploring the use of Brain-Computer Interfacing in drone control</i>", May 2019
+
 Thesis available through DTU.
 
 Arduino Scripts made by Mikkel Bugge in cooperation with DTU Space
