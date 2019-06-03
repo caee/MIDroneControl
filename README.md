@@ -58,3 +58,5 @@ https://www.youtube.com/watch?v=wYRMMQU5Fu8
 Part of Bachelors thesis for Carl Emil Elling & Aleksander Sørup Lund in cooperation with DTU Space and DTU Digital Health.
 "Exploring the use of Brain-Computer Interfacing in drone control", May 2019
 Thesis available through DTU.
+
+Arduino Scripts made by Mikkel Bugge in cooperation with DTU Space
