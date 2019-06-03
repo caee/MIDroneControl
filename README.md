@@ -55,10 +55,10 @@ OpenViBE 4Mi_online.xml is run using the previously trained filter and classifie
 Video demonstration of the program
 https://www.youtube.com/watch?v=wYRMMQU5Fu8
 
-Part of Bachelors thesis for Carl Emil Elling & Aleksander Sørup Lund in cooperation with DTU Space and DTU Digital Health.
+Part of Bachelors thesis for <b>Carl Emil Elling</b> & <b>Aleksander Sørup Lund</b> in cooperation with DTU Space and DTU Digital Health.
 
 "<i>Exploring the use of Brain-Computer Interfacing in drone control</i>", May 2019
 
 Thesis available through DTU.
 
-Arduino Scripts made by Mikkel Bugge in cooperation with DTU Space
+Arduino Scripts made by <b>Mikkel Bugge</b> in cooperation with DTU Space
