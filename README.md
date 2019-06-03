@@ -6,7 +6,7 @@ The following instructions is very specific to the instruments available at the
 Hearing Lab at DTU and any replications might need slight adjustments based
 on the available equipment.
 # Prerequisites
-The following instruments and equipment was used.
+The following instruments and equipment was used. //
 • 1 x g.USBamp
 • 1 x g.GAMMAsys - Preamp
 • 16 x g.LADYbird - Active Electrodes
