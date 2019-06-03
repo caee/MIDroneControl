@@ -1,5 +1,5 @@
 # MIDroneControl
-OpenViBE BCI paradigm for controlling a drone using 3 classes of Motor Imagery (MI).
+OpenViBE BCI paradigm for controlling a drone using 3 classes of Motor Imagery (MI). OpenViBE has been used to handle data flow. 
 
 # Setup and Laboratory Procedure
 The following instructions is very specific to the instruments available at the
