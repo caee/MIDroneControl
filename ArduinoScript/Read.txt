@@ -1,0 +1,3 @@
+DroneMenu is the Python code. Run Main.py as main script
+
+ppm_encoder_source is the arduino code. The Arduino IDE should set the code up if running the .ino file.
