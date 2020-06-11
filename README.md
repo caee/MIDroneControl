@@ -55,7 +55,7 @@ OpenViBE 4Mi_online.xml is run using the previously trained filter and classifie
 Video demonstration of the program
 https://www.youtube.com/watch?v=wYRMMQU5Fu8
 
-Part of Bachelors thesis for <b>Carl Emil Elling</b> & <b>Aleksander Sørup Lund</b> in cooperation with DTU Space and DTU Digital Health.
+Part of a bachelors thesis by <b>Carl Emil Elling</b> & <b>Aleksander Sørup Lund</b> in cooperation with DTU Space and DTU Digital Health.
 
 "<i>Exploring the use of Brain-Computer Interfacing in drone control</i>", May 2019
 
