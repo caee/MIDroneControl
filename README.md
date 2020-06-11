@@ -2,7 +2,7 @@
 OpenViBE BCI paradigm for controlling a drone using 3 classes of Motor Imagery (MI). OpenViBE has been used to handle data flow. 
 
 # Setup and Laboratory Procedure
-The following instructions is specific to the instruments available at the
+The following instructions are specific to the instruments available at the
 Hearing Lab at the Technical University of Denmark (DTU) and any replications might need slight adjustments based
 on the available equipment.
 # Prerequisites
@@ -30,7 +30,7 @@ The following instruments and equipment was used.
 
 # Arduino setup
 Everything under ArduinoScript/ppm_encoder_souce must be compiled onto Arduino using the Arduino IDE.
-Arduino must output 
+Arduino must output to a serial port on your computer and to the training port of the Taranis controller. 
 
 # OpenViBE
 Connect the g.GAMMAsys to the g.USBamp and the 
